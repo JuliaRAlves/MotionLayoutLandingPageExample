@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal">
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="400dp"
+            android:adjustViewBounds="true"
+            android:src="@drawable/img_vanillove" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/bebasneue"
+            android:gravity="center"
+            android:text="Vanillove"
+            android:textColor="@color/vanillove"
+            android:textSize="40sp" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="400dp"
+            android:adjustViewBounds="true"
+            android:src="@drawable/img_salty_carammmel" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/bebasneue"
+            android:gravity="center"
+            android:text="Salty Carammmel"
+            android:textColor="@color/salty_carammmel"
+            android:textSize="40sp" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="400dp"
+            android:adjustViewBounds="true"
+            android:src="@drawable/img_swirly_pistachi_oh" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/bebasneue"
+            android:gravity="center"
+            android:text="Swirly Pistachi-oh!"
+            android:textColor="@color/swirly_pistachi_oh"
+            android:textSize="40sp" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="400dp"
+            android:adjustViewBounds="true"
+            android:src="@drawable/img_peanut_caramel_tango" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/bebasneue"
+            android:gravity="center"
+            android:text="Peanut Caramel Tango"
+            android:textColor="@color/peanut_caramel_tango"
+            android:textSize="40sp" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="400dp"
+            android:adjustViewBounds="true"
+            android:src="@drawable/img_chocolate_crunch" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/bebasneue"
+            android:gravity="center"
+            android:text="Chocolate Crunch"
+            android:textColor="@color/chocolate_crunch"
+            android:textSize="40sp" />
+
+    </LinearLayout>
+
+</LinearLayout>

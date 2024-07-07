@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MotionLayoutOnboardingExample</string>
+
+    <string name="why_resist">Why\nresist?</string>
+    <string name="delightful_and_light">
+        <font color="#563121">Delightful and light*.</font>Discover the 5 flavours.
+    </string>
+    <string name="warning">* At least 32% fewer calories and 48% lower fat than the average best-selling tub ice cream. For more information click</string>
+    <string name="more_than_ice_cream">Lec is more than just ice cream</string>
+    <string name="invitation">It’s an invitation to indulge in those pleasures we don’t want to miss.</string>
+</resources>

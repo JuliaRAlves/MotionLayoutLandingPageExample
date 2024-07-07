@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="yellow">#FCC43F</color>
+    <color name="white">#FFFAF5</color>
+    <color name="brown">#563121</color>
+    <color name="light_brown">#93796D</color>
+    <color name="black">#000000</color>
+    <color name="vanillove">#F8AA00</color>
+    <color name="salty_carammmel">#793909</color>
+    <color name="swirly_pistachi_oh">#5D5510</color>
+    <color name="peanut_caramel_tango">#944C0A</color>
+    <color name="chocolate_crunch">#4B2619</color>
+</resources>
